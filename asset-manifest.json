@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/TareaBro/static/css/main.f855e6bc.css",
+    "main.js": "/TareaBro/static/js/main.b812f520.js",
+    "static/js/453.37f5700e.chunk.js": "/TareaBro/static/js/453.37f5700e.chunk.js",
+    "static/media/gota.png": "/TareaBro/static/media/gota.d4e1d6dd24467fb81e64.png",
+    "static/media/settings.svg": "/TareaBro/static/media/settings.13b18a07d31bdee0e5e352ace2bd5293.svg",
+    "index.html": "/TareaBro/index.html",
+    "static/media/ok.svg": "/TareaBro/static/media/ok.e50ea2ede088c4d096b2b6af0797e245.svg",
+    "static/media/back.svg": "/TareaBro/static/media/back.f67da7caa549446aa30b0e0c024d5132.svg",
+    "main.f855e6bc.css.map": "/TareaBro/static/css/main.f855e6bc.css.map",
+    "main.b812f520.js.map": "/TareaBro/static/js/main.b812f520.js.map",
+    "453.37f5700e.chunk.js.map": "/TareaBro/static/js/453.37f5700e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b812f520.js"
+  ]
+}
